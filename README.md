@@ -1,7 +1,7 @@
 
 ## Hi, I'm Jhon Burn Villamor 👋
 
-**Computer Engineer | Software Developer | IoT Developer | Machine Learning Engineer**
+**Software and IoT Developer**
 
 I'm a strategic thinker with a passion for problem-solving and exploration. With a diverse background in engineering, physics, and computer science, I thrive on tackling complex challenges head-on. My expertise spans across various domains, including programming, AI, web and mobile app development, API integration, and cloud computing. Whether working solo or in a team, my goal is to deliver excellence and drive positive impact in everything I do.
 
