@@ -58,7 +58,6 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
         <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
       </p>
-      <h4>API Development & Testing</h4>
       <p>
         <strong>API Protocols:</strong> 
         <p>
