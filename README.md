@@ -83,12 +83,15 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
     <td>
       <h3>GitHub Stats</h3>
       <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoChad&theme=default&hide_border=true" alt="AlgoChad's GitHub Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoChad&theme=radical&hide_border=true" alt="AlgoChad's GitHub Stats" />
       </p>
       <p>
         <a href="https://github.com/AlgoChad/github-readme-stats">
           <img src="https://algochad-readme-stats-git-main-algochads-projects.vercel.app/api?username=AlgoChad&show_icons=true&theme=radical" alt="AlgoChad's GitHub stats" />
         </a>
+      </p>
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoChad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="AlgoChad's GitHub Stats" />
       </p>
     </td>
   </tr>
