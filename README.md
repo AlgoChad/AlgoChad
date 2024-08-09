@@ -53,7 +53,7 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
       </p>
       <h4>Database</h4>
       <p>
-        <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=sqlserver&logoColor=white" />
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
