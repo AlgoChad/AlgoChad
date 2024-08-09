@@ -76,7 +76,7 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
       </p>
       <h4>Cloud Computing</h4>
       <p>
-        <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
         <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
         <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
       </p>
