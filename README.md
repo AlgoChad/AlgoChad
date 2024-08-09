@@ -10,19 +10,19 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
 <table>
   <tr>
     <td>
-      <h3>Skills</h3>
-      <h4>Programming Languages</h4>
-      <p>
-        <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" />
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-
-      <h4>Data Science & Machine Learning</h4>
+      <div>
+        <h3>Skills</h3>
+        <h4>Programming Languages</h4>
+        <p>
+          <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
+          <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+          <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" />
+          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        </p>  
+        <h4>Data Science & Machine Learning</h4>
       <p>
         <img src="https://img.shields.io/badge/-Alteryx-1C89BF?style=flat&logo=alteryx&logoColor=white" />
         <img src="https://img.shields.io/badge/-IBM%20SPSS-052FAD?style=flat&logo=ibm&logoColor=white" />
@@ -32,7 +32,6 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
         <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
         <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
       </p>
-
       <h4>Web Development</h4>
       <p>
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -46,14 +45,12 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
       </p>
-
       <h4>Mobile Development</h4>
       <p>
         <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/-MAUI-512BD4?style=flat&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
       </p>
-
       <h4>Database</h4>
       <p>
         <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
@@ -61,7 +58,6 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
         <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
       </p>
-
       <h4>API Development & Testing</h4>
       <p>
         <strong>API Protocols:</strong> 
@@ -76,13 +72,13 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
         <img src="https://img.shields.io/badge/-SoapUI-6DB33F?style=flat&logo=soapui&logoColor=white" />
         <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
       </p>
-
       <h4>Cloud Computing</h4>
       <p>
         <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
         <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
         <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
       </p>
+      </div>
     </td>
     <td>
       <h3>GitHub Stats</h3>
