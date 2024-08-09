@@ -100,6 +100,4 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
 - **1st Runner Up** - NCR Regional CpE Challenge C Programming - 2022
 
 ## 🔗 Connect with Me
-[![Linked
-
-In](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-burn-villamor-4115a021a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-burn-villamor-4115a021a/)
