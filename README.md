@@ -67,7 +67,6 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
           <img src="https://img.shields.io/badge/-SOAP-25A162?style=flat&logo=soap&logoColor=white" />
           <img src="https://img.shields.io/badge/-WebSockets-000000?style=flat&logo=websockets&logoColor=white" />  
         </p>
-        <br />
         <strong>Testing & Dev Tools:</strong> 
         <p>
           <img src="https://img.shields.io/badge/-IBM%20App%20Connect-052FAD?style=flat&logo=ibm&logoColor=white" />
