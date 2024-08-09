@@ -61,16 +61,20 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
       <h4>API Development & Testing</h4>
       <p>
         <strong>API Protocols:</strong> 
-        <img src="https://img.shields.io/badge/-REST-005C99?style=flat&logo=rest&logoColor=white" />
-        <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-SOAP-25A162?style=flat&logo=soap&logoColor=white" />
-        <img src="https://img.shields.io/badge/-WebSockets-000000?style=flat&logo=websockets&logoColor=white" />
+        <p>
+          <img src="https://img.shields.io/badge/-REST-005C99?style=flat&logo=rest&logoColor=white" />
+          <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+          <img src="https://img.shields.io/badge/-SOAP-25A162?style=flat&logo=soap&logoColor=white" />
+          <img src="https://img.shields.io/badge/-WebSockets-000000?style=flat&logo=websockets&logoColor=white" />  
+        </p>
         <br />
         <strong>Testing & Dev Tools:</strong> 
-        <img src="https://img.shields.io/badge/-IBM%20App%20Connect-052FAD?style=flat&logo=ibm&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-        <img src="https://img.shields.io/badge/-SoapUI-6DB33F?style=flat&logo=soapui&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+        <p>
+          <img src="https://img.shields.io/badge/-IBM%20App%20Connect-052FAD?style=flat&logo=ibm&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+          <img src="https://img.shields.io/badge/-SoapUI-6DB33F?style=flat&logo=soapui&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+        </p>
       </p>
       <h4>Cloud Computing</h4>
       <p>
